@@ -1,6 +1,6 @@
 # Designer Web Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Free Web Template for Designer Profile Showcase
 
 Currently, two official plugins are available:
 
